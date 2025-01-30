@@ -6,7 +6,7 @@
 
 ## Learning Resources
 - [List of Resources to learn Rust - Roadmap From Beginner to Advanced Level](https://github.com/ImplFerris/LearnRust)
-- [Free Online Books]([https://github.com/ImplFerris/LearnRust](https://implrust.com/free-rust-books/))
+- [Collection of Free Rust Books](https://implrust.com/free-rust-books/)
 
 ## Embedded Rust Books
 - [Pico Pico - Embedded Programming with Raspberry Pi Pico 2 and Rust](https://github.com/ImplFerris/pico-pico)
