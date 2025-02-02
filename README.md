@@ -16,6 +16,7 @@
 - [Dinosaur Game written in Rust for the ESP32](https://github.com/ImplFerris/esp32-rex)
 - [Dinosaur Game written in Rust for the Raspberry Pi Pico 2 (RP2350)](https://github.com/ImplFerris/pico-rex)
 - [Breakout Game written in Rust for the ESP32](https://github.com/ImplFerris/esp32-breakout-rust)
+- [Flappy Bird Game written in Rust for the ESP32 with OLED Display](https://github.com/ImplFerris/esp32-flappy-bird)
 
 ## Other Embedded Projects
 - [Smart Door Lock Simulation with Rust and ESP32](https://github.com/implferris/esp32-rfid-access)
