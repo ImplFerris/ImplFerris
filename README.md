@@ -1,9 +1,5 @@
 [![Impl Rust](./implrust-banner.png)](https://implrust.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImplFerris&theme=merko)](https://github.com/ImplFerris/ImplFerris)
-[![ImplFerris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImplFerris&show_icons=true&theme=merko)](https://implrust.com)
-
-
 ## Learning Resources
 - [List of Resources to learn Rust - Roadmap From Beginner to Advanced Level](https://github.com/ImplFerris/LearnRust)
 - [Collection of Free Rust Books](https://implrust.com/free-rust-books/)
