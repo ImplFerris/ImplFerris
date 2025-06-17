@@ -7,6 +7,7 @@
 ## Free Books on Embedded Rust Programming
 - [Pico Pico - Embedded Programming with Raspberry Pi Pico 2 and Rust](https://github.com/ImplFerris/pico-pico)
 - [Embedded Programming with ESP32 and Rust](https://github.com/ImplFerris/esp32-book)
+- [impl Rust for microbit](https://github.com/ImplFerris/microbit-book)
 
 ## Embedded Rust Games
 - [Dinosaur Game written in Rust for the ESP32](https://github.com/ImplFerris/esp32-rex)
