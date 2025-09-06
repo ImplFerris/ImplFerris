@@ -8,6 +8,7 @@
 - [Pico Pico - Embedded Programming with Raspberry Pi Pico 2 and Rust](https://github.com/ImplFerris/pico-pico)
 - [Embedded Programming with ESP32 and Rust](https://github.com/ImplFerris/esp32-book)
 - [impl Rust for microbit](https://github.com/ImplFerris/microbit-book)
+- [RED Book: Learn to write Embedded Rust Drivers](https://github.com/ImplFerris/Red-book)
 
 ## Embedded Rust Games
 - [Dinosaur Game written in Rust for the ESP32](https://github.com/ImplFerris/esp32-rex)
@@ -19,4 +20,5 @@
 ## Other Embedded Projects
 - [Smart Door Lock Simulation with Rust and ESP32](https://github.com/implferris/esp32-rfid-access)
 - [A collection of songs for embedded programming projects using Rust](https://github.com/ImplFerris/rust-embedded-songs)
+- [RTC HAL](https://github.com/implferris/rtc-hal)
 
