@@ -6,6 +6,7 @@
 
 ## Free Books on Embedded Rust Programming
 - [Pico Pico - Embedded Programming with Raspberry Pi Pico 2 and Rust](https://github.com/ImplFerris/pico-pico)
+- [impl Rust for Rp2040 - Embedded Programming with Raspberry Pi Pico](https://github.com/ImplFerris/rp2040-book)
 - [Embedded Programming with ESP32 and Rust](https://github.com/ImplFerris/esp32-book)
 - [impl Rust for microbit](https://github.com/ImplFerris/microbit-book)
 - [RED Book: Learn to write Embedded Rust Drivers](https://github.com/ImplFerris/Red-book)
